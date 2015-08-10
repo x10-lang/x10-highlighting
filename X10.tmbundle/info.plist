@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>yznaqry@hf.voz.pbz</string>
+	<key>contactName</key>
+	<string>Louis Mandel</string>
+	<key>description</key>
+	<string>A bundle for the &lt;a href="http://x10-lang.org/"&gt;X10&lt;/a&gt; programming language.</string>
+	<key>name</key>
+	<string>X10</string>
+	<key>uuid</key>
+	<string>5A0502C8-C1EF-42E4-ACE4-49C5EFDF7BB7</string>
+</dict>
+</plist>
